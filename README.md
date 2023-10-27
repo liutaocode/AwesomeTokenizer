@@ -40,6 +40,10 @@ CVPR 2023, [Dynamic-VQ](http://openaccess.thecvf.com/content/CVPR2023/papers/Hua
 
 ICCV 2019, [VideoBERT](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf) (Tokenize the visual features using hierarchical kmeans)
 
+Arxiv, 2021, [VideoGPT](https://arxiv.org/abs/2104.10157)
+
+ECCV 2022, [TA-VQGAN](https://arxiv.org/pdf/2204.03638.pdf) 
+
 CVPR 2023, [MAG-VIT](https://github.com/google-research/magvit), [Code](https://github.com/google-research/magvit)
 
 Arxiv 2023, [MAG-VIT2](https://github.com/google-research/magvit) (LFQ:look-up free quantization)
